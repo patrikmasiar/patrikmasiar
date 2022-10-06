@@ -6,6 +6,7 @@
 [React](https://reactjs.org/), [React Native](https://reactnative.dev/) [NextJS](https://nextjs.org/), [JavaScript](https://www.javascript.com/), [TypeScript](https://www.typescriptlang.org/), [Redux](https://redux.js.org/), [Zustand](https://github.com/pmndrs/zustand), [Axios](https://axios-http.com/), [React Query](https://tanstack.com/query/v4/), [GraphQL](https://graphql.org/), [Apollo](https://www.apollographql.com/docs/), [NodeJS](https://nodejs.org/en/), [PHP (a little bit)](https://www.php.net/)
 
 ### Professional career 🚀
+* I am currently working as frontend lead at [Kontentino](https://kontentino.com/)
 
 ### Personal projects 🛰
 
