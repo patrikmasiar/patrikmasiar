@@ -13,16 +13,16 @@
 
 ### Personal projects 🛰
 * 🌤 Wanna know the accurate weather? Check out [presnepocasie.sk](https://presnepocasie.sk)
-  * REPO: https://github.com/patrikmasiar/presnepocasie
 * 🤳🏻 Disappointed by the poor quality of shared photos in applications? Use [zdielaj.si](https://zdielaj.si)
   * REPO MOBILE APP: https://github.com/patrikmasiar/ZdielajSiMobileApp
+* 🦮 If you are looking for idea for the trip with your best friend, check out [vyletysopsom.sk](https://vyletysopsom.sk)
 
   
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patrik-mäsiar-856366147) 
 
 
-### 💰 You can help me by Donating
+### 💰 You can help me by donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/patrikmasiar) 
 
 
