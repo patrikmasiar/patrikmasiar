@@ -1,5 +1,4 @@
-# Hi there 👋 My name is Patrik. 
-## I'm software developer from Slovakia
+![patrikmasiar](https://github.com/patrikmasiar/patrikmasiar/assets/8200096/922bfb69-0dff-4400-8bd3-fd01850964d5)
 #### ...idea maker, project validator, tech enthusiast, innovator...
 
 🌐 [patrikmasiar.com](https://patrikmasiar.com/)
