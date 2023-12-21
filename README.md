@@ -3,7 +3,7 @@
 
 🌐 [patrikmasiar.com](https://patrikmasiar.com/)
 
-### 💻 Tech Stack:
+## 💻 Tech Stack
 #### Main
  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
@@ -16,23 +16,22 @@
 
 
 
-### Professional career 🚀
+## 🚀 Professional career 
 * 💙 I am currently working as frontend lead at [Kontentino](https://kontentino.com/)
 * 🥫 Helping with Slovak job portal [Pretlak](https://pretlak.com/)
 * 🐶 Always keeping in my mind the first touch with React technology at [Snootik](https://snootik.com/)
 
-### Personal projects 🛰
+## 🛰 Personal projects 
 * 🌤 Wanna know the accurate weather? Check out [presnepocasie.sk](https://presnepocasie.sk)
 * 🤳🏻 Disappointed by the poor quality of shared photos in applications? Use [zdielaj.si](https://zdielaj.si)
   * REPO MOBILE APP: https://github.com/patrikmasiar/ZdielajSiMobileApp
 * 🦮 If you are looking for idea for the trip with your best friend, check out [vyletysopsom.sk](https://vyletysopsom.sk)
 
   
-### 🌐 Socials:
+#### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patrik-mäsiar-856366147) 
 
-
-### 💰 You can help me by donating
+#### 💰 You can help me by donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/patrikmasiar) 
 
 
