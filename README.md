@@ -1,5 +1,6 @@
 # Hi there 👋 My name is Patrik. 
-## I'm software developer from Slovakia ...idea maker, project validator, tech enthusiast, innovator...
+## I'm software developer from Slovakia
+#### ...idea maker, project validator, tech enthusiast, innovator...
 
 🌐 [patrikmasiar.com](https://patrikmasiar.com/)
 
